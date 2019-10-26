@@ -59,6 +59,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     * [Webpack](https://webpack.js.org/)
     * [Rollup](https://rollupjs.org/guide/en)
     * [Parcel](https://parceljs.org/)
+    * [More](https://github.com/tanwei-cc/frontend-dev-tools/blob/master/README.en.md)
 5. Styling
     1. CSS Preprocessor
         * [Sass/CSS](https://sass-lang.com/)
